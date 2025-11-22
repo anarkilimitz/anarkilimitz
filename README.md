@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Evgenii</h1>
+<h1 align="center">Hi, I'm Evgeniy</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarkilimitz&show_icons=true&theme=radical)
 
