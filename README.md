@@ -27,6 +27,6 @@ Focused on clean code, performance, and scalable front-end architecture.
 
 *Always learning. Always improving.*
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anarkilimitz&show_icons=true&theme=radical)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anarkilimitz&theme=radical)](https://github.com/anarkilimitz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anarkilimitz&layout=compact)](https://github.com/anarkilimitz/github-readme-stats)
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anarkilimitz&theme=radical)](https://github.com/anarkilimitz)
