@@ -28,5 +28,4 @@ Focused on clean code, performance, and scalable front-end architecture.
 *Always learning. Always improving.*
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anarkilimitz&theme=radical)](https://github.com/anarkilimitz)
-
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anarkilimitz&theme=radical)](https://github.com/anarkilimitz)
